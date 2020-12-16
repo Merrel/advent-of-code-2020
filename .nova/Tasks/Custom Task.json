@@ -1,0 +1,9 @@
+{
+  "actions" : {
+    "run" : {
+      "enabled" : true,
+      "script" : "python .\/Day12\/day12.py"
+    }
+  },
+  "identifier" : "554AF1BC-BADD-4B74-BD03-AA63CE2A6BE5"
+}
